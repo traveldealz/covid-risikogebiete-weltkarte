@@ -16,7 +16,7 @@
 	}
 
 	/* Keine Risikogebiet */
-        .ai, .au, .aw, .bb, .bm, .bn, .bq, .ca, .cc, .ck, .cn, .cw, .cx, .cy, .lv, .dm, .eh, .fj, .fk, .fm, .fo, .gd, .gi, .gr, .gs, .gu, .hk, .hm, .io, .kh, .ki, .kn, .kr, .lc, .mc, .mf, .mh, .mm, .mo, .mp, .ms, .mu, .my, .nc, .nf, .no, .nr, .nu, .pf, .pm, .pn, .pr, .ps, .pw, .sc, .sg, .sh, .sm, .tc, .th, .tk, .to, .tv, .tw, .vc, .vg, .vi, .vn, .vu, .wf, .ws, .yt, .ai, .au, .aw, .bb, .bm, .bn, .bq, .ca, .cc, .ck, .cn, .cw, .cx, .cy, .dm, .eh, .fj, .fk, .fm, .fo, .gd, .gi, .gr, .gs, .gu, .hk, .hm, .io, .kh, .ki, .kn, .kr, .lc, .mc, .mf, .mh, .mm, .mo, .mp, .ms, .mu, .my, .nc, .nf, .no, .nr, .nu, .pf, .pm, .pn, .pr, .ps, .pw, .sc, .sg, .sh, .sm, .tc, .th, .tk, .to, .tv, .tw, .vc, .vg, .vi, .vn, .vu, .wf, .ws, .yt, .je, .gg, .im, .ky, .uy, .jp, .la, .lk, .cu, .na, .bw, .ug, .gl
+        .ai, .au, .aw, .bb, .bm, .bn, .bq, .ca, .cc, .ck, .cn, .cw, .cx, .cy, .lv, .dm, .eh, .fj, .fk, .fm, .fo, .gd, .gi, .gr, .gs, .gu, .hk, .hm, .io, .kh, .ki, .kn, .kr, .lc, .mc, .mf, .mh, .mm, .mo, .mp, .ms, .mu, .my, .nc, .nf, .no, .nr, .nu, .pf, .pm, .pn, .pr, .ps, .pw, .sc, .sg, .sh, .sm, .tc, .th, .tk, .to, .tv, .tw, .vc, .vg, .vi, .vn, .vu, .wf, .ws, .yt, .ai, .au, .aw, .bb, .bm, .bn, .bq, .ca, .cc, .ck, .cn, .cw, .cx, .cy, .dm, .eh, .fj, .fk, .fm, .fo, .gd, .gi, .gr, .gs, .gu, .hk, .hm, .io, .kh, .ki, .kn, .kr, .lc, .mc, .mf, .mh, .mm, .mo, .mp, .ms, .mu, .my, .nc, .nf, .no, .nr, .nu, .pf, .pm, .pn, .pr, .ps, .pw, .sc, .sg, .sh, .sm, .tc, .th, .tk, .to, .tv, .tw, .vc, .vg, .vi, .vn, .vu, .wf, .ws, .yt, .je, .gg, .im, .ky, .uy, .jp, .la, .lk, .cu, .na, .bw, .ug, .gl, .nz, .sb, .rw
 	{
 		fill: #48BB78 !important;
 	}
