@@ -4,19 +4,19 @@
 	<style id="style_css_sheet" type="text/css">
 
 	/* Risikogebiet */
-	.af, .eg, .al, .dz, .ao, .ad, .gq, .ar, .am, .az, .et, .bs, .bh, .bd, .by, .be, .bz, .bj, .bt, .bo, .ba, .br, .bf, .bi, .cl, .cr, .ci, .do, .dj, .ec, .sv, .er, .sz, .fr, .gf, .gp, .ga, .gm, .ge, .gh, .gt, .gn, .gw, .gy, .ht, .hn, .in, .id, .iq, .ir, .ie, .is, .il, .mq, .jm, .ye, .jo, .cm, .kz, .qa, .ke, .kg, .co, .km, .cd, .cg, .kp, .xk, .kw, .ls, .lb, .lr, .ly, .li, .lu, .mg, .mw, .mv, .ml, .mt, .ma, .mr, .mx, .mn, .me, .mz, .np, .ni, .nl, .ne, .ng, .mk, .om, .pk, .pa, .pg, .py, .pe, .ph, .pl, .md, .re, .ro, .ru, .zm, .st, .sa, .ch, .sn, .rs, .sl, .zw, .sk, .so, .za, .sd, .ss, .sr, .sy, .tj, .tz, .cz, .tl, .tg, .tt, .td, .tn, .tr, .tm, .ua, .us, .uz, .ve, .ae, .gb, .cf, .cw, .aw, .bq, .sx, .mf, .gu, .as, .pr, .vi, .mp, .bg, .va, .hr, .mc, .sm, .si, .hu, .cy
+	.af, .eg, .al, .dz, .ao, .ad, .gq, .ar, .am, .az, .et, .bs, .bh, .bd, .by, .be, .bz, .bj, .bt, .bo, .ba, .br, .bf, .bi, .cl, .cr, .ci, .do, .dj, .ec, .sv, .er, .sz, .fr, .gf, .gp, .ga, .gm, .ge, .gh, .gt, .gn, .gw, .gy, .ht, .hn, .in, .id, .iq, .ir, .ie, .is, .il, .mq, .jm, .ye, .jo, .cm, .kz, .qa, .ke, .kg, .co, .km, .cd, .cg, .kp, .xk, .kw, .ls, .lb, .lr, .ly, .li, .lu, .mg, .mw, .mv, .ml, .mt, .ma, .mr, .mx, .mn, .me, .mz, .np, .ni, .nl, .ne, .ng, .mk, .om, .pk, .pa, .pg, .py, .pe, .ph, .pl, .md, .re, .ro, .ru, .zm, .st, .sa, .ch, .sn, .rs, .sl, .zw, .sk, .so, .za, .sd, .ss, .sr, .sy, .tj, .tz, .cz, .tl, .tg, .tt, .td, .tn, .tr, .tm, .ua, .us, .uz, .ve, .ae, .gb, .cf, .cw, .aw, .bq, .sx, .mf, .gu, .as, .pr, .vi, .mp, .bg, .va, .hr, .mc, .sm, .si, .hu, .cy, .dk, .it
 	{
 		fill: #F56565 !important;
 	}
 
 	/* Teilweise Risikogebiet */
-         .dk, .fi, .it, .lt, .at, .pt, .se, .es, .gr, .lv
+         .fi, .lt, .at, .pt, .se, .es, .gr, .lv, .no, .ee
 	{
 		fill: #ED8936 !important;
 	}
 
 	/* Keine Risikogebiet */
-        .ai, .au, .bb, .bm, .bn, .ca, .cc, .ck, .cn, .cx, .dm, .eh, .fj, .fk, .fm, .fo, .gd, .gi, .gs, .hk, .hm, .io, .kh, .ki, .kn, .kr, .lc, .mh, .mm, .mo, .ms, .mu, .my, .nc, .nf, .no, .nr, .nu, .pf, .pm, .pn, .ps, .pw, .sc, .sg, .sh, .tc, .th, .tk, .to, .tv, .tw, .vc, .vg, .vn, .vu, .wf, .ws, .yt, .je, .gg, .im, .ky, .uy, .jp, .la, .lk, .cu, .na, .bw, .ug, .gl, .nz, .sb, .rw, .ee
+        .ai, .au, .bb, .bm, .bn, .ca, .cc, .ck, .cn, .cx, .dm, .eh, .fj, .fk, .fm, .fo, .gd, .gi, .gs, .hk, .hm, .io, .kh, .ki, .kn, .kr, .lc, .mh, .mm, .mo, .ms, .mu, .my, .nc, .nf, .nr, .nu, .pf, .pm, .pn, .ps, .pw, .sc, .sg, .sh, .tc, .th, .tk, .to, .tv, .tw, .vc, .vg, .vn, .vu, .wf, .ws, .yt, .je, .gg, .im, .ky, .uy, .jp, .la, .lk, .cu, .na, .bw, .ug, .gl, .nz, .sb, .rw
 	{
 		fill: #48BB78 !important;
 	}
