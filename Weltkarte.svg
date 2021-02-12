@@ -4,13 +4,13 @@
 	<style id="style_css_sheet" type="text/css">
 
 	/* Risikogebiet */
-	.lc, .my, .bl, .yt, .vc, .sc, .bb, .pt, .ie, .fr, .na, .ee, .bm, .uy, .es, .lt, .lv, .bw, .pf, .se, .ca, .af, .eg, .al, .dz, .ao, .ad, .gq, .ar, .am, .az, .et, .bs, .bh, .bd, .by, .be, .bz, .bj, .bt, .bo, .ba, .br, .bf, .bi, .cl, .cr, .ci, .do, .dj, .ec, .sv, .er, .sz, .gf, .ga, .gm, .ge, .gh, .gt, .gn, .gw, .gy, .ht, .hn, .in, .id, .iq, .ir, .il, .jm, .ye, .jo, .cm, .kz, .qa, .ke, .kg, .co, .km, .cd, .cg, .kp, .xk, .kw, .ls, .lb, .lr, .ly, .li, .lu, .mg, .mw, .mv, .ml, .mt, .ma, .mr, .mx, .mn, .me, .mz, .np, .ni, .nl, .ne, .ng, .mk, .om, .pk, .pa, .pg, .py, .pe, .ph, .pl, .md, .ro, .ru, .zm, .st, .sa, .ch, .sn, .rs, .sl, .zw, .sk, .so, .za, .sd, .ss, .sr, .sy, .tj, .tz, .cz, .tl, .tg, .tt, .td, .tn, .tr, .tm, .ua, .us, .uz, .ve, .ae, .gb, .cf, .cw, .aw, .bq, .sx, .mf, .gu, .as, .pr, .vi, .mp, .bg, .va, .hr, .mc, .sm, .si, .hu, .cy, .dk, .it
+	.lc, .my, .bl, .yt, .vc, .sc, .bb, .pt, .ie, .fr, .na, .ee, .bm, .uy, .es, .lt, .lv, .bw, .pf, .se, .ca, .af, .eg, .al, .dz, .ao, .ad, .gq, .ar, .am, .az, .et, .bs, .bh, .bd, .by, .be, .bz, .bj, .bt, .bo, .ba, .br, .bf, .bi, .cl, .cr, .ci, .do, .dj, .ec, .sv, .er, .sz, .gf, .ga, .gm, .ge, .gh, .gt, .gn, .gw, .gy, .ht, .hn, .in, .id, .iq, .ir, .il, .jm, .ye, .jo, .cm, .kz, .qa, .ke, .kg, .co, .km, .cd, .cg, .kp, .xk, .kw, .ls, .lb, .lr, .ly, .li, .lu, .mg, .mw, .mv, .ml, .mt, .ma, .mr, .mx, .mn, .me, .mz, .np, .ni, .nl, .ne, .ng, .mk, .om, .pk, .pa, .pg, .py, .pe, .ph, .pl, .md, .ro, .ru, .zm, .st, .sa, .ch, .sn, .rs, .sl, .zw, .sk, .so, .za, .sd, .ss, .sr, .sy, .tj, .tz, .cz, .tl, .tg, .tt, .td, .tn, .tr, .tm, .ua, .us, .uz, .ve, .ae, .gb, .cf, .cw, .aw, .bq, .sx, .mf, .gu, .as, .pr, .vi, .mp, .bg, .va, .hr, .mc, .sm, .si, .hu, .cy, .it
 	{
 		fill: #F56565 !important;
 	}
 
 	/* Teilweise Risikogebiet */
-           .fi, .je, .at, .gr, .no
+            .dk, .fi, .je, .at, .gr, .no
 	{
 		fill: #ED8936 !important;
 	}
