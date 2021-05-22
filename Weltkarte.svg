@@ -4,13 +4,13 @@
 	<style id="style_css_sheet" type="text/css">
 
 	/* Hochinzidenzgebiet */
-	 .tt, .sr, .sc, .bm, .uy, .lt, .se, .eg, .ar, .bh, .bo, .cl, .cr, .ec, .ge, .ir, .qa, .co, .kw, .mv, .mx, .nl, .py, .pe, .sd, .sy, .tz, .tn, .tr, .aw, .bq, .sx, .gu, .as, .pr, .vi, .mp,  .cy
+	 .tt, .sr, .sc, .uy, .lt, .se, .eg, .ar, .bh, .bo, .cl, .cr, .ec, .ge, .ir, .qa, .co, .kw, .mv, .mx, .nl, .py, .pe, .sd, .sy, .tz, .tn, .tr, .aw, .bq, .sx, .gu, .as, .pr, .vi, .mp,  .cy
 	{
 		fill: #F56565 !important; /*rot*/
 	}
 
 	/* Risikogebiet */
-        .lc, .om, .mn, .si, .hr, .yt, .wf, .re, .pm, .pf, .nc, .mq, .gp, .gf, .bl, .fr, .ad, .af, .dz, .ao, .gq, .am, .az, .et, .bs, .bd, .by, .be, .bz, .bj, .bt, .ba, .bg, .bf, .bi, .ci, .dk, .dj, .sv, .er, .ee, .ga, .gm, .gh, .gr, .gt, .gn, .gw, .gy, .ht, .hn, .id, .iq, .it, .ye, .jo, .ca, .cm, .kz, .ke, .kg, .km, .cd, .cg, .kp, .xk, .cu, .lv, .lb, .lr, .ly, .li, .lu, .mg, .my, .ml, .ma, .mr, .md, .mc, .me, .na, .ni, .ne, .ng, .mk, .pk, .ps, .pa, .pg, .ph, .pl, .ru, .mf, .st, .sa, .ch, .sn, .rs, .sl, .so, .lk, .ss, .tj, .tl, .tg, .td, .cz, .tm, .ua, .hu, .us, .uz, .va, .ve, .ae, .tc, .sh, .pn, .ms, .gi, .fk, .ky, .vg, .io, .gb, .cf
+        .lc, .om, .mn, .si, .hr, .yt, .wf, .re, .pm, .pf, .nc, .mq, .gp, .gf, .bl, .fr, .ad, .af, .dz, .ao, .gq, .am, .az, .et, .bs, .bd, .by, .be, .bz, .bj, .bt, .ba, .bg, .bf, .bi, .ci, .dk, .dj, .sv, .er, .ee, .ga, .gm, .gh, .gr, .gt, .gn, .gw, .gy, .ht, .hn, .id, .iq, .it, .ye, .jo, .ca, .cm, .kz, .ke, .kg, .km, .cd, .cg, .kp, .xk, .cu, .lv, .lb, .lr, .ly, .li, .lu, .mg, .my, .ml, .ma, .mr, .md, .mc, .me, .na, .ni, .ne, .ng, .mk, .pk, .ps, .pa, .pg, .ph, .pl, .ru, .mf, .st, .sa, .ch, .sn, .rs, .sl, .so, .lk, .ss, .tj, .tl, .tg, .td, .cz, .tm, .ua, .hu, .us, .uz, .va, .ve, .ae,  .cf
         {
 		fill: #F5AD65 !important; /*orange*/
 	}
@@ -22,13 +22,13 @@
         }
 
         /* Virusvariantengebiet */
-        .im, .ai, .gs, .cw, .bw, .br, .sz, .in, .ls, .mw, .mz, .np, .zm, .zw, .za
+        .tc, .sh, .pn, .ms, .gi, .fk, .ky, .io, .gb, .vg, .bm, .je, .gg, .im, .ai, .gs, .cw, .bw, .br, .sz, .in, .ls, .mw, .mz, .np, .zm, .zw, .za
         {
         fill: #B20C0C !important; /*violett*/
         }
 
 	/* Keine Risikogebiet */
-        .sk, .sm, .ro, .jm, .fi, .mt, .al, .do, .ag, .bb, .je, .il, .vc, .fo, .is, .au, .bn, .cc, .ck, .cn, .cx, .dm, .eh, .fj, .fm, .gd, .hk, .hm, .kh, .ki, .kn, .kr, .mh, .mm, .mo,  .mu, .nf, .nr, .nu, .pw, .sg,  .th, .tk, .to, .tv, .tw, .vn, .vu, .ws, .gg,  .jp, .la, .ug, .gl, .nz, .sb, .rw
+        .sk, .sm, .ro, .jm, .fi, .mt, .al, .do, .ag, .bb, .il, .vc, .fo, .is, .au, .bn, .cc, .ck, .cn, .cx, .dm, .eh, .fj, .fm, .gd, .hk, .hm, .kh, .ki, .kn, .kr, .mh, .mm, .mo,  .mu, .nf, .nr, .nu, .pw, .sg,  .th, .tk, .to, .tv, .tw, .vn, .vu, .ws,  .jp, .la, .ug, .gl, .nz, .sb, .rw
 	{
 		fill: #48BB78 !important; /*grün*/
 	}
