@@ -12,7 +12,7 @@
 
 
         /* Alle */
-        .ba, .fr, .gr, .it, .lu, .mk, .at, .pl, .pt, .ro, .ch, .rs, .es, .tk, ua, .bz, .br, .cr, .do, .ec, .sv, .gt, .gy, .hn, .co, .mx, .ni, .pa, py, .pe, .af, .am, .kz, .kg, .mv, .ae, .gm, .ke, .mr, .sd
+        .se, .ba, .fr, .gr, .it, .lu, .mk, .at, .pl, .pt, .ro, .ch, .rs, .es, .tk, ua, .bz, .br, .cr, .do, .ec, .sv, .gt, .gy, .hn, .co, .mx, .ni, .pa, py, .pe, .af, .am, .kz, .kg, .mv, .ae, .gm, .ke, .mr, .sd
         {
         fill: #48BB78 !important; /*grün*/
         }
