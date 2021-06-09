@@ -5,14 +5,14 @@
 
 
         /* Nur Geimpfte */
-        .bg, .dk, .ee, .hr, .lt, .me, .si, .cz, .cy, .bs, .ge
+        .sk, .bg, .dk, .ee, .hr, .lt, .me, .si, .cz, .cy, .bs, .ge
         {
         fill: #FFE140 !important; /*gelb*/
         }
 
 
         /* Alle */
-        .se, .ba, .fr, .gr, .it, .lu, .mk, .at, .pl, .pt, .ro, .ch, .rs, .es, .tk, ua, .bz, .br, .cr, .do, .ec, .sv, .gt, .gy, .hn, .co, .mx, .ni, .pa, py, .pe, .af, .am, .kz, .kg, .mv, .ae, .gm, .ke, .mr, .sd
+        .ua, .se, .ba, .fr, .gr, .it, .lu, .mk, .at, .pl, .pt, .ro, .ch, .rs, .es, .tk, ua, .bz, .br, .cr, .do, .ec, .sv, .gt, .gy, .hn, .co, .mx, .ni, .pa, py, .pe, .af, .am, .kz, .kg, .mv, .ae, .gm, .ke, .mr, .sd
         {
         fill: #48BB78 !important; /*grün*/
         }
